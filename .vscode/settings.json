@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#4e2a8e", // tesco colors (^ ω ^)
+        "titleBar.inactiveBackground": "#4e2a8eBB",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveForeground": "#FFFFFFBB"
+    },
+}

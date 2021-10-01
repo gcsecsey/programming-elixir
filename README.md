@@ -33,3 +33,4 @@ Unpacked 1828 files and folders to /home/gcsecsey/.vscode-server/bin/7f6ab5485bb
 ### Start dev container
 
 Once VSCode opens the repository, hit <kbd>F1</kbd> and run the "Remote-Containers: Reopen in Container" command.
+![Command palette](https://code.visualstudio.com/assets/docs/remote/containers/remote-containers-reopen.png)

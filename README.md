@@ -21,7 +21,6 @@ code programming-elixir
 
 This installs the required dependencies and opens the repository within a devcontainer:
 ```log
-code programming-elixir/
 Updating VS Code Server to version 7f6ab5485bbc008386c4386d08766667e155244e    
 Removing previous installation...
 Installing VS Code Server for x64 (7f6ab5485bbc008386c4386d08766667e155244e)   
